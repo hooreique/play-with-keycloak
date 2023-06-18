@@ -1,8 +1,8 @@
 ## Play with Keycloak
 
-Keycloak 을 사용하여 간단히 사용자 인증 (회원 가입, 로그인, 로그아웃) 을 구현할 수 있다. [OIDC](https://en.wikipedia.org/wiki/OpenID) (OpenId Connect) 를 사용한다.
+Keycloak 을 사용하여 간단히 사용자 인증 (회원 가입, 로그인, 로그아웃) 을 구현할 수 있다. [OIDC](https://en.wikipedia.org/wiki/OpenID) (OpenID Connect) 를 사용한다.
 
-[Keycloak Docker image](https://www.keycloak.org/getting-started/getting-started-docker) 를 이용하여 간단하게 Keycloak 을 사용한 예제이다.
+[Keycloak Docker image](https://www.keycloak.org/getting-started/getting-started-docker) 를 이용하여 간단하게 Keycloak 을 사용한 예시이다.
 
 [Vue](https://vuejs.org/) 로 구현된 간단한 Front-end 애플리케이션이 함께한다.
 
