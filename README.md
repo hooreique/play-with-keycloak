@@ -102,3 +102,7 @@ pnpm run dev
 ![Figure 102](./figure/fig-102.png)
 
 ![Figure 103](./figure/fig-103.png)
+
+## Keycloak JavaScript Adapter Reference Doc
+
+[Keycloak JavaScript Adapter Reference Doc](https://wjw465150.gitbooks.io/keycloak-documentation/content/securing_apps/topics/oidc/javascript-adapter.html)
