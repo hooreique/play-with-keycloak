@@ -3,10 +3,11 @@ import { ref } from 'vue';
 import { keycloak, login, logout, register } from '@/auth/keycloak.js';
 
 const userInfo = ref({});
-const setUserInfo = () => keycloak
-  .loadUserInfo()
-  .then(info => (userInfo.value = info))
-  .catch(() => (userInfo.value = {}));
+const setUserInfo = () =>
+  keycloak
+    .loadUserInfo()
+    .then(info => (userInfo.value = info))
+    .catch(() => (userInfo.value = {}));
 
 const tokenExpired = ref(true);
 const isTokenExpired = () => (tokenExpired.value = keycloak.isTokenExpired());
