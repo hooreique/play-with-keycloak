@@ -95,7 +95,7 @@ pnpm install --shamefully-hoist
 pnpm run dev
 ```
 
-`http://localhost:3000`
+[`http://localhost:3000`](http://localhost:3000)
 
 ![Figure 101](./figure/fig-101.png)
 
