@@ -21,7 +21,9 @@
 
 ### Run Keycloak container
 
-[`run-my-keycloak.ps1`](./run-my-keycloak.ps1) 을 실행하여 Keycloak 컨테이너를 실행한다.
+[`run-my-keycloak.ps1`](./run-my-keycloak.ps1) 을 실행하여 Keycloak 인스턴스를 개발 용으로 실행한다. (컨테이너 이름 `my-keycloak`)
+
+([`stop-my-keycloak.ps1`](./stop-my-keycloak.ps1) 을 실행하여 실행 중인 `my-keycloak` 컨테이너를 종료할 수 있다.)
 
 ### Enter the Keycloak admin web interface
 
