@@ -15,7 +15,7 @@
 - Windows
 - Docker Desktop
 - Node.js
-- [PNPM](https://pnpm.io/) (Option)
+- [PNPM](https://pnpm.io/) (Optional)
 
 ## Getting started
 
